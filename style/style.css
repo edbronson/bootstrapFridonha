@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    min-height: 100vh;
+    
+}
+
+.card {
+    flex: 1;
+    padding: 0;
+    margin-top: 30px;
+}
+
+.title {
+    color: white;
+    font-size: 60px;
+    margin-top: 30px;
+
+}
+
+.subtitle {
+    color: white;
+    font-size: 26px;
+}
+
+.row {
+    flex-wrap: wrap;
+}
+
+footer {
+    margin-top: auto;
+}
+
+
